@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/poisson"
-click B href "https://github.com/stdlib-js/random-base-poisson/tree/main"
-click C href "https://github.com/stdlib-js/random-base-poisson/tree/production"
-click D href "https://github.com/stdlib-js/random-base-poisson/tree/esm"
-click E href "https://github.com/stdlib-js/random-base-poisson/tree/deno"
-click F href "https://github.com/stdlib-js/random-base-poisson/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/poisson"
+%% click B href "https://github.com/stdlib-js/random-base-poisson/tree/main"
+%% click C href "https://github.com/stdlib-js/random-base-poisson/tree/production"
+%% click D href "https://github.com/stdlib-js/random-base-poisson/tree/esm"
+%% click E href "https://github.com/stdlib-js/random-base-poisson/tree/deno"
+%% click F href "https://github.com/stdlib-js/random-base-poisson/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/poisson
