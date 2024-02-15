@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@esm/index.mjs';
+import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@v0.2.0-esm/index.mjs';
 ```
 
 #### poisson( lambda )
@@ -387,7 +387,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@esm/index.mjs';
+import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@v0.2.0-esm/index.mjs';
 
 var seed;
 var rand;
