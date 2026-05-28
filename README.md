@@ -451,6 +451,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/poisson`][@stdlib/random/array/poisson]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Poisson distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/poisson`][@stdlib/random/iter/poisson]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Poisson distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/poisson`][@stdlib/random/streams/poisson]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Poisson distribution.</span>
+-   <span class="package-name">[`@stdlib/random-poisson`][@stdlib/random/poisson]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Poisson distribution.</span>
 
 </section>
 
@@ -541,6 +542,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/poisson]: https://github.com/stdlib-js/random-iter-poisson
 
 [@stdlib/random/streams/poisson]: https://github.com/stdlib-js/random-streams-poisson
+
+[@stdlib/random/poisson]: https://github.com/stdlib-js/random-poisson
 
 <!-- </related-links> -->
 
